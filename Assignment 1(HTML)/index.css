@@ -1,0 +1,25 @@
+.header {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.heading {
+  font-size: 30px;
+  color: #333;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+  border-radius: 10%;
+}
+
+.btn {
+  display: flex;
+  justify-content: left;
+  margin-top: 20px;
+}
+
+a {
+  display: block;
+}
